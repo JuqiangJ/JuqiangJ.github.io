@@ -25,8 +25,8 @@ description: Exploring language and speech data!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Speech analysis: "http://deanattali.com/beautiful-jekyll/"
-    - Corpus linguistics: "http://www.markdowntutorial.com/"
+    - Speech analysis: "speech_analysis"
+    - Corpus linguistics: "corpusling"
     - Natural language processing: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 

@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Speech analysis: "speech_analysis"
     - Corpus linguistics: "corpusling"
-    - Natural language processing: "https://pages.github.com/"
+    - Natural language processing: "404"
   读写修行: "duxie.md"
 
 # Image to show in the navigation bar - image must be a square (width = height)

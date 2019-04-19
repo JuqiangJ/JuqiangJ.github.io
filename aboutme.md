@@ -4,11 +4,8 @@ title: About me
 subtitle: PhD Student 
 ---
 ![](/img/JC_stand4.png)
-<style>
-body {
-text-align: justify}
-<style>p.indent{ padding-left: 1.8em }</style>
-</style>
+
+
 
 My research interest is twofold: second language speech perception/production and speech/language corpus. The first part is more on the psycholinguistic side, where I take an experimental approach to studying second language speech perception and production. My current PhD project, [Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers]((https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen)), falls into this category. I started wokring on my PhD in 2017 at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs) with [Prof.Catherine Best](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou) and Dr.Benjawan Kasisopa. Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a MA in Applied Linguistics in 2017.
 <br>
@@ -35,21 +32,15 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <br>
 <br>
 
+#### Research
 
-####Manuscripts
-#####In preparation
-<br>
-<br>
-
-####Research
-
-#####Peer-reviewed Conference papers
+##### Peer-reviewed Conference papers
 
 **Chen, J.**, Best, C. T., Antoniou, M., & Kasisopa, B. (2018). Cross-language categorisation of monosyllabic Thai tones by Mandarin and Vietnamese speakers: L1 phonological and phonetic influences. In J. Epps, J. Wolfe, J. Smith, & C. Jones (Eds.) *Proceedings of the Seventeenth Australasian International Conference on Speech Science and Technology*(pp. 168–172). 
 <br>
 <br>
 
-#####Conference presentations
+##### Conference presentations
 
 **Chen, J.**, Best, C. T., Antoniou, M., & Kasisopa, B. (2018).Mapping and comparing East and Southeast Asian language tones.Annual Conference of the Australian Linguistic Society (ALS). University of South Australia, Australia.
 
@@ -59,7 +50,7 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <br>
 <br>
 
-####Honours and Awards
+#### Honours and Awards
 
 2017-Present &ensp; **CSC-WSU Joint Scholarship** &ensp; China Scholarship Council, WSU
 
@@ -77,7 +68,7 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <br>
 <br>
 
-####Research Assistantships
+#### Research Assistantships
 2018-2019  &ensp; **Arabana nasal Project.** &ensp;  University of Newcastle. <br>Supervisor: Mark Harvey; Robert Mailhammer
 
 2018-2019  &ensp; **Kaytetye Project.** &ensp;  University of Newcastle.
@@ -85,7 +76,7 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <br>
 <br>
 
-####Teaching
+#### Teaching
 
 2014  &ensp; **College English (IELTS)** &ensp; Nanjing University
 
@@ -93,9 +84,9 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <br>
 <br>
 
-####Service
+#### Service
 
-#####Professional Membership
+##### Professional Membership
 
 *Australasian Speech Science and Technology Association* &ensp; 2017-Present
 
@@ -106,36 +97,35 @@ The second part is more descriptive in nature and I am always enthusiastic about
 *Acoustic Society of America*              &ensp;               2018-presemt
 
 
-#####MARCS, University of Western Sydney
+##### MARCS, University of Western Sydney
 
 *MARCS Monday Meeting coordinator* &ensp; 2018
 
 *Speech and language program meeting coordinator* &ensp; 2019
 
-APSSC Campus Representative
 <br>
 <br>
 
-###Language
+### Language
 Chinese (Native)  &ensp; English (Proficient, TOEFL:112); French (Intermediate)
 <br>
 <br>
 
-###Technique skills
+### Technique skills
 
-####Praat	Experienced user
+#### Praat	Experienced user
 Acoustic analysis with Praat scripts
 <br>Spectrogram reading and IPA annotation
 <br>Speech synthesis
 
-####R	Good user
+#### R	Good user
 Data cleaning and wrangling : tidyr, dplyr
 <br>Statistical modelling: GLM, GLMM, PCA, CA, SEM
 <br>Data visualization: ggplot2
 
-####Psychological experimental design
+#### Psychological experimental design
 E-prime programming 
 
-####Corpus linguistics/NLP with Python
+#### Corpus linguistics/NLP with Python
 
 

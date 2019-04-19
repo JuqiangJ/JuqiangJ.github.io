@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data science for language studies
+title: Juqiang @MARCS
 
 # Short description of your site
-description: Exploring language with all kinds of data!
+description: Exploring language and speech data!
 
 # --- Navigation bar options --- #
 
@@ -25,9 +25,9 @@ description: Exploring language with all kinds of data!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Speech analysis: "http://deanattali.com/beautiful-jekyll/"
+    - Corpus linguistics: "http://www.markdowntutorial.com/"
+    - Natural language processing: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)

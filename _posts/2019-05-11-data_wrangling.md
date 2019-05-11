@@ -12,8 +12,11 @@ Juqiang Chen
 
 
 ******
+
 ![](/img/blog_images/figure-html/cover.jpg) 
+
 ******
+
 ![](/img/blog_images/figure-html/wrangling1.jpg) 
 
 Data Analysis workflow (by Hadley Wickham)
@@ -21,6 +24,7 @@ Data Analysis workflow (by Hadley Wickham)
 ******
 
 # What is data wrangling?
+
 ![](/img/blog_images/figure-html/wrangling2.jpg) 
 
 ******

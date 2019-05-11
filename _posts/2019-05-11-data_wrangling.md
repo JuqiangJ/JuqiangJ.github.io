@@ -13,18 +13,15 @@ Juqiang Chen
 
 ******
 ![](/img/blog_images/figure-html/cover.jpg) 
-
-<!--html_preserve--><div id="htmlwidget-0aeb8f13c2f691fc7c71" style="width:672px;height:672px;" class="grViz html-widget"></div>
-<script type="application/json" data-for="htmlwidget-0aeb8f13c2f691fc7c71">{"x":{"diagram":"\ndigraph data_wrangling_workflow {\n\n  # a \"graph\" statement\n  graph [overlap = true, fontsize = 10, rankdir = LR]\n\n  # several \"node\" statements\n  node [shape = box,\n        style = filled,\n        fontname = Helvetica]\n  Import; Tidy; Transform; Visualize; Model; Communicate\n  # several \"edge\" statements\nImport -> Tidy->Transform\nTransform -> Visualize \nTransform -> Model\n#Communicate -> Model\n#Communicate -> Visualize\nModel -> Communicate[dir = both]\nVisualize -> Communicate [dir = both]\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+******
+![](/img/blog_images/figure-html/wrangling1.jpg) 
 
 Data Analysis workflow (by Hadley Wickham)
 
 ******
 
 # What is data wrangling?
-
-<!--html_preserve--><div id="htmlwidget-31e07fec8f6a68c48e56" style="width:672px;height:480px;" class="grViz html-widget"></div>
-<script type="application/json" data-for="htmlwidget-31e07fec8f6a68c48e56">{"x":{"diagram":"digraph {\n  # a \"graph\" statement\n  graph [overlap = true, fontsize = 10, rankdir = LR]\n\n  # several \"node\" statements\n  node [shape = box,\n        style = filled,\n        fontname = Helvetica]\n  Import; Tidy; Transform; Visualize; Model; Communicate\n\n  # several \"edge\" statements\n  subgraph cluster1 {\n  node [style=filled,color=white];\n  style=filled;\n  color=lightgrey;\n  Import -> Tidy->Transform;\n  label = \"Data_wrangling\"\n    }\n\nTransform -> Visualize \nTransform -> Model\nModel -> Communicate[dir = both]\nVisualize -> Communicate [dir = both]\n\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+![](/img/blog_images/figure-html/wrangling2.jpg) 
 
 ******
 

@@ -3,9 +3,8 @@ layout: page
 title: About me
 subtitle: PhD Student 
 ---
-![](/img/JC_stand4.png)
 
-
+![](/img/homepage_1.jpg)
 
 My research interests are twofold: second language speech perception/production as well as speech/language corpus. The first part is more on the psycholinguistic side, where I take an experimental approach to studying second language speech perception and production. My current PhD project, [Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers]((https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen)), falls into this category. I started wokring on my PhD in 2017 at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs) with [Prof.Catherine Best](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou) and Dr.Benjawan Kasisopa. Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a MA in Applied Linguistics in 2017.
 <br>
@@ -17,17 +16,19 @@ The second part is more descriptive in nature and I am always enthusiastic about
 &ensp; [E-mail](j.chen2@westernsydney.edu.au) &ensp;  [Research Gate](https://www.researchgate.net/profile/Juqiang_Chen?ev=hdr_xprf&_sg=PLd--S4rAxP355beD9SM1NWekpEyCSV_oWPDxaa8_5hLBOmdyQJVSwqxv12hMo2PFyb3bv46jlgHK-plv-VTZhHJ) 
 <br>
 <br>
+
 <center>Curriculum Vitae</center>
 [CV pdf](/pdf/CV_Juqiang.pdf)
 
 #### Eudcation
+
 2017-Now &ensp;**Ph.D.** &ensp;Psycholinguistics &ensp;  @[MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
 <br>Supervisory panel: Prof. Catherine Best (primary); Dr. Mark Antoniou; Dr. Benjawan Kasisopa
 
-2014-2017&ensp;	**M.A.** &ensp; Applied Linguistics &ensp; @[Nanjing University](https://www.nju.edu.cn/EN/) 
+2014-2017&ensp;    **M.A.** &ensp; Applied Linguistics &ensp; @[Nanjing University](https://www.nju.edu.cn/EN/) 
 <br>Supervisor: Prof. Chen Hua
 
-2009-2013	&ensp;**B.A.** &ensp; English linguistics &ensp; 	@[Nantong University](http://www.ntu.edu.cn)
+2009-2013    &ensp;**B.A.** &ensp; English linguistics &ensp;     @[Nantong University](http://www.ntu.edu.cn)
 <br>Supervisor: Dr. He Xuliang
 <br>
 <br>
@@ -54,21 +55,22 @@ The second part is more descriptive in nature and I am always enthusiastic about
 
 2017-Present &ensp; **CSC-WSU Joint Scholarship** &ensp; China Scholarship Council, WSU
 
-2016	 &ensp; **Academic Excellence Scholarship**  &ensp; 	Nanjing University
+2016     &ensp; **Academic Excellence Scholarship**  &ensp;     Nanjing University
 
-2014-2017	 &ensp; **National Academic Scholarship for Graduate Students** &ensp; 	Ministry of Education, P.R.C
+2014-2017     &ensp; **National Academic Scholarship for Graduate Students** &ensp;     Ministry of Education, P.R.C
 
-2013 &ensp; **Excellent Bachelor Degree Thesis** &ensp; 	Nantong University
+2013 &ensp; **Excellent Bachelor Degree Thesis** &ensp;     Nantong University
 
-2011-2012	 &ensp; **National Student Encouragement Scholarship (three times)** &ensp; Department of Education, Jiangsu Province
+2011-2012     &ensp; **National Student Encouragement Scholarship (three times)** &ensp; Department of Education, Jiangsu Province
 
 2010-2012 &ensp; **First-class Student Scholarship (twice)** &ensp; Nantong University
 
-2010 &ensp;	**National Student Scholarship** &ensp; 	Ministry of Education, P.R.C
+2010 &ensp;    **National Student Scholarship** &ensp;     Ministry of Education, P.R.C
 <br>
 <br>
 
 #### Research Assistantships
+
 2018-2019  &ensp; **Arabana nasal Project.** &ensp;  University of Newcastle. <br>Supervisor: Mark Harvey; Robert Mailhammer
 
 2018-2019  &ensp; **Kaytetye Project.** &ensp;  University of Newcastle.
@@ -96,7 +98,6 @@ The second part is more descriptive in nature and I am always enthusiastic about
 
 *Acoustic Society of America*              &ensp;               2018-presemt
 
-
 ##### MARCS, University of Western Sydney
 
 *MARCS Monday Meeting coordinator* &ensp; 2018
@@ -106,25 +107,27 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <br>
 
 ### Language
+
 Chinese (Native)  &ensp; English (Proficient, TOEFL:112); French (Intermediate)
 <br>
 <br>
 
 ### Technique skills
 
-#### Praat	Experienced user
+#### Praat    Experienced user
+
 Acoustic analysis with Praat scripts
 <br>Spectrogram reading and IPA annotation
 <br>Speech synthesis
 
-#### R	Good user
+#### R    Good user
+
 Data cleaning and wrangling : tidyr, dplyr
 <br>Statistical modelling: GLM, GLMM, PCA, CA, SEM
 <br>Data visualization: ggplot2
 
 #### Psychological experimental design
+
 E-prime programming 
 
 #### Corpus linguistics/NLP with Python
-
-

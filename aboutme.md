@@ -4,7 +4,7 @@ title: About me
 subtitle: PhD Student 
 ---
 
-<img align="left" hspace=”50” vspace=”50” src="/img/homepage_1.jpg" >
+<img align="left" src="/img/homepage_1.jpg" HSPACE=”50” VSPACE=”50” />
 
 
 

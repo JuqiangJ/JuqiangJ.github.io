@@ -3,9 +3,9 @@ layout: page
 title: About me
 subtitle: PhD Student 
 ---
-<img src="/img/Juqianghead.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="/img/Juqianghead.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-My research interests are twofold: second language speech perception/production as well as speech/language corpus. The first part is more on the psycholinguistic side, where I take an experimental approach to studying second language speech perception and production. My current PhD project, [Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers]((https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen)), falls into this category. I started wokring on my PhD in 2017 at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs) with [Prof.Catherine Best](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou) and Dr.Benjawan Kasisopa. Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a MA in Applied Linguistics in 2017.
+My research interests are twofold: second language speech perception/production as well as speech/language corpus. The first part is more on the psycholinguistic side, where I take an experimental approach to studying second language speech perception and production. My current PhD project, [Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), falls into this category. I started wokring on my PhD in 2017 at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs) with [Prof.Catherine Best](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou) and Dr.Benjawan Kasisopa. Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a MA in Applied Linguistics in 2017.
 <br>
 <br>
 The second part is more descriptive in nature and I am always enthusiastic about using coprus to document and explore patterns of language use.This is partially reflected in my current research assistant work with Mark Harvey, University of New Castle, and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie University, on endangered aboriginal Australia Languages, **Arabana** and **Kaytetye** in particular, where I am responsible for data annotation, acoustic analysis, data visualizationa and statistical modelling.
@@ -24,7 +24,7 @@ The second part is more descriptive in nature and I am always enthusiastic about
 2017-Now &ensp;**Ph.D.** &ensp;Psycholinguistics &ensp;  @[MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
 <br>Supervisory panel: Prof. Catherine Best (primary); Dr. Mark Antoniou; Dr. Benjawan Kasisopa
 
-2014-2017&ensp;    **M.A.** &ensp; Applied Linguistics &ensp; @[Nanjing University](https://www.nju.edu.cn/EN/) 
+2014-2017&ensp; **M.A.** &ensp; Applied Linguistics &ensp; @[Nanjing University](https://www.nju.edu.cn/EN/) 
 <br>Supervisor: Prof. Chen Hua
 
 2009-2013    &ensp;**B.A.** &ensp; English linguistics &ensp;     @[Nantong University](http://www.ntu.edu.cn)
@@ -92,8 +92,6 @@ The second part is more descriptive in nature and I am always enthusiastic about
 *Australasian Speech Science and Technology Association* &ensp; 2017-Present
 
 *Australian Linguistic Society*            &ensp;                2017-Present
-
-*Association for Psychological Science*    &ensp;               2017-2018
 
 *Acoustic Society of America*              &ensp;               2018-presemt
 

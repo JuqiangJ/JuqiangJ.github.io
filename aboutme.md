@@ -4,8 +4,8 @@ title: About me
 subtitle: PhD Student 
 ---
 
+<img align="left" src="/img/homepage_1.jpg">
 
-<img align="left" src="/img/homepage_1.jpg" HSPACE=”50” VSPACE=”50”>
 
 
 My research interests are twofold: second language speech perception/production as well as speech/language corpus. The first part is more on the psycholinguistic side, where I take an experimental approach to studying second language speech perception and production. My current PhD project, [Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers]((https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen)), falls into this category. I started wokring on my PhD in 2017 at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs) with [Prof.Catherine Best](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou) and Dr.Benjawan Kasisopa. Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a MA in Applied Linguistics in 2017.

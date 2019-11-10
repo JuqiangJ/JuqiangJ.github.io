@@ -21,7 +21,7 @@ The second part is more descriptive in nature and I am always enthusiastic about
 
 #### Eudcation
 
-2017-Now &ensp;**Ph.D.** &ensp;Psycholinguistics &ensp;  @[MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
+2017-Now &ensp;**PhD candidate** &ensp;Psycholinguistics &ensp;  @[MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
 <br>Supervisory panel: Prof. Catherine Best (primary); Dr. Mark Antoniou; Dr. Benjawan Kasisopa
 
 2014-2017&ensp; **M.A.** &ensp; Applied Linguistics &ensp; @[Nanjing University](https://www.nju.edu.cn/EN/) 
@@ -70,10 +70,10 @@ The second part is more descriptive in nature and I am always enthusiastic about
 
 #### Research Assistantships
 
-2018-2019  &ensp; **Arabana nasal Project.** &ensp;  University of Newcastle. <br>Supervisor: Mark Harvey; Robert Mailhammer
+2018-2019  &ensp; **Arabana nasal Project.** &ensp;  University of Newcastle. <br>Supervisors: Mark Harvey; Robert Mailhammer
 
 2018-2019  &ensp; **Kaytetye Project.** &ensp;  University of Newcastle.
-<br>Supervisor: Mark Harvey; Michael Proctor
+<br>Supervisors: Mark Harvey; Michael Proctor
 <br>
 <br>
 
@@ -105,19 +105,19 @@ The second part is more descriptive in nature and I am always enthusiastic about
 
 ### Language
 
-Chinese (Native)  &ensp; English (Proficient, TOEFL:112); French (Intermediate)
+Chinese (Native)  &ensp; English (Proficient, TOEFL:112);  French (Intermediate)
 <br>
 <br>
 
 ### Technique skills
 
-#### Praat    Experienced user
+#### Praat    
 
 Acoustic analysis with Praat scripts
 <br>Spectrogram reading and IPA annotation
 <br>Speech synthesis
 
-#### R    Good user
+#### R    
 
 Data cleaning and wrangling : tidyr, dplyr
 <br>Statistical modelling: GLM, GLMM, PCA, CA, SEM

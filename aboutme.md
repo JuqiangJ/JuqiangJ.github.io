@@ -5,12 +5,14 @@ subtitle: PhD Student
 ---
 <img src="/img/Juqianghead.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-My research interests are twofold: second language speech perception/production as well as speech/language corpus. The first part is more on the psycholinguistic side, where I take an experimental approach to studying second language speech perception and production. My current PhD project, [Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), falls into this category. I started wokring on my PhD in 2017 at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs) with [Prof.Catherine Best](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou) and Dr.Benjawan Kasisopa. Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a MA in Applied Linguistics in 2017.
+Hi there! I am Juqiang and I am currently  a PhD candidate (in psycholinguistics) at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs). I started my PhD project ,[Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), in 2017 with [Prof.Catherine Best(primary supervisor)](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou). Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a Master of Arts (linguistics) in 2017.
 <br>
+
+My research interest and expertise are in speech perception/production and speech corpus construction, with a focus on second language acquisition. In addition to my PhD project, I am also working on some linguistic projects on endangered aboriginal Australia Languages, *Arabana* and *Kaytetye*, with Mark Harvey, U of New Castle, [Robert Mailhammerand](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/associate_professor_robert_mailhammer), Western Sydney U , and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie U.
+
+Apart from speech-related studies, I am also keen on exploring social and stylistic language variations with methods from corpus linguistics, natural language process and text mining. I have always been enthusiastic about using coprus to document and explore patterns of language use.
 <br>
-The second part is more descriptive in nature and I am always enthusiastic about using coprus to document and explore patterns of language use.This is partially reflected in my current research assistant work with Mark Harvey, University of New Castle, and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie University, on endangered aboriginal Australia Languages, **Arabana** and **Kaytetye** in particular, where I am responsible for data annotation, acoustic analysis, data visualizationa and statistical modelling.
-<br>
-<br>
+
 **<span style="color:red">Contact:</span>**
 &ensp; [E-mail](j.chen2@westernsydney.edu.au) &ensp;  [Research Gate](https://www.researchgate.net/profile/Juqiang_Chen?ev=hdr_xprf&_sg=PLd--S4rAxP355beD9SM1NWekpEyCSV_oWPDxaa8_5hLBOmdyQJVSwqxv12hMo2PFyb3bv46jlgHK-plv-VTZhHJ) 
 <br>
@@ -19,28 +21,35 @@ The second part is more descriptive in nature and I am always enthusiastic about
 <center>Curriculum Vitae</center>
 [CV pdf](/pdf/CV_Juqiang.pdf)
 
-#### Eudcation
+## Eudcation
 
-2017-Now &ensp;**PhD candidate** &ensp;Psycholinguistics &ensp;  @[MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
-<br>Supervisory panel: Prof. Catherine Best (primary); Dr. Mark Antoniou; Dr. Benjawan Kasisopa
+2017-Now &ensp;**PhD candidate** &ensp;Psycholinguistics &ensp; 
+[MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
 
-2014-2017&ensp; **M.A.** &ensp; Applied Linguistics &ensp; @[Nanjing University](https://www.nju.edu.cn/EN/) 
-<br>Supervisor: Prof. Chen Hua
+2014-2017 &ensp; **M.A.** &ensp; Applied Linguistics &ensp; 
+[Nanjing University](https://www.nju.edu.cn/EN/) 
 
-2009-2013    &ensp;**B.A.** &ensp; English linguistics &ensp;     @[Nantong University](http://www.ntu.edu.cn)
-<br>Supervisor: Dr. He Xuliang
+2009-2013    &ensp;**B.A.** &ensp; English linguistics &ensp; 
+[Nantong University](http://www.ntu.edu.cn)
+
 <br>
-<br>
 
-#### Research
+## Research
 
-##### Peer-reviewed Conference papers
+### Peer-reviewed Conference papers
+
+
+**Chen, J**., Best, C. T., & Antoniou, M. (2019). Cognitive Factors in Thai-Naïve Mandarin Speakers’ Imitation of Thai Lexical Tones. _Proc. Interspeech 2019_, 2653–2657. [https://doi.org/10.21437/Interspeech.2019-1403](https://doi.org/10.21437/Interspeech.2019-1403)
+
+**Chen, J.,** Best, C. T., Antoniou, M., & Kasisopa, B. (2019). Cognitive factors in perception of Thai tones by naïve Mandarin listeners. In S. Calhoun, P. Escudero, M. Tabain, & P. Warren (Eds.), _*Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019*_ (pp. 1684–1688). Canberra, Australia: Australasian Speech Science and Technology Association Inc.
+
+Carne, M., **Chen, J.,** Luk, E., Strangways, S., Stockigt, C., Maihammer, R., & Harvey, M. (2019). Rhotic contrasts in Arabana. In S. Calhoun, P. Escudero, M. Tabain, & P. Warren (Eds.), _Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019_ (pp. 1278–1282). Canberra, Australia: Australasian Speech Science and Technology Association Inc.
 
 **Chen, J.**, Best, C. T., Antoniou, M., & Kasisopa, B. (2018). Cross-language categorisation of monosyllabic Thai tones by Mandarin and Vietnamese speakers: L1 phonological and phonetic influences. In J. Epps, J. Wolfe, J. Smith, & C. Jones (Eds.) *Proceedings of the Seventeenth Australasian International Conference on Speech Science and Technology*(pp. 168–172). 
 <br>
-<br>
 
-##### Conference presentations
+
+### Conference presentations
 
 **Chen, J.**, Best, C. T., Antoniou, M., & Kasisopa, B. (2018).Mapping and comparing East and Southeast Asian language tones.Annual Conference of the Australian Linguistic Society (ALS). University of South Australia, Australia.
 
@@ -48,83 +57,70 @@ The second part is more descriptive in nature and I am always enthusiastic about
 
 **Chen, J.** (2016). The Phonetic Realization of Information Focus in English Declaratives: A Comparative Study Between Chinese English Learners and Native speakers. Paper presented at the EPCC(2016): Yanbian Univerisity, Yanji, PRC.
 <br>
+
+### Research Assistantships
+
+2018-present  &ensp; **Arabana Project** &ensp;  <br>Supervisors: Mark Harvey; Robert Mailhammer
+
+2018-2019  &ensp; **Kaytetye Project** &ensp; <br>Supervisors: Mark Harvey; Michael Proctor
 <br>
 
-#### Honours and Awards
+### Professional Membership
+2019-present&ensp;&ensp;Asia-Pacific Signal and Information Processing Association (APSIPA) 
+2019-present&ensp;&ensp;International Speech Communication Association
+2017-Present&ensp;&ensp;Australasian Speech Science and Technology Association
+2017-2019&ensp;&ensp;&ensp;&ensp;Australian Linguistic Society                           
+ 2018-present&ensp;&ensp;Acoustic Society of America                          
 
-2017-Present &ensp; **CSC-WSU Joint Scholarship** &ensp; China Scholarship Council, WSU
+### Academic service
 
-2016     &ensp; **Academic Excellence Scholarship**  &ensp;     Nanjing University
-
-2014-2017     &ensp; **National Academic Scholarship for Graduate Students** &ensp;     Ministry of Education, P.R.C
-
-2013 &ensp; **Excellent Bachelor Degree Thesis** &ensp;     Nantong University
-
-2011-2012     &ensp; **National Student Encouragement Scholarship (three times)** &ensp; Department of Education, Jiangsu Province
-
-2010-2012 &ensp; **First-class Student Scholarship (twice)** &ensp; Nantong University
-
-2010 &ensp;    **National Student Scholarship** &ensp;     Ministry of Education, P.R.C
-<br>
+2018 &ensp; MARCS Monday Meeting coordinator
+2019 &ensp;Speech and language program meeting coordinator
 <br>
 
-#### Research Assistantships
+## Honours and Awards
 
-2018-2019  &ensp; **Arabana nasal Project.** &ensp;  University of Newcastle. <br>Supervisors: Mark Harvey; Robert Mailhammer
+2017-Present &ensp; CSC-WSU Joint Scholarship &ensp; *China Scholarship Council, WSU*
 
-2018-2019  &ensp; **Kaytetye Project.** &ensp;  University of Newcastle.
-<br>Supervisors: Mark Harvey; Michael Proctor
+2016     &ensp; Academic Excellence Scholarship  &ensp;     *Nanjing University*
+
+2014-2017     &ensp; National Academic Scholarship for Graduate Students &ensp;   *Ministry of Education, P.R.C*
+
+2013 &ensp; Excellent Bachelor Degree Thesis &ensp;  *Nantong University*
+
+2011-2012     &ensp; National Student Encouragement Scholarship (three times) &ensp; *Department of Education, Jiangsu*
+
+2010-2012 &ensp; First-class Student Scholarship (twice) &ensp; *Nantong University*
+
+2010 &ensp;    National Student Scholarship &ensp;  *Ministry of Education, P.R.C*
 <br>
-<br>
 
-#### Teaching
+## Teaching
 
-2014  &ensp; **College English (IELTS)** &ensp; Nanjing University
+2019&ensp; Introduction to data wrangling with R; 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Introduction to exploratory data analysis with R 
+*Digital Humanity Summer Institute Downunder, University of Newcastle, Australia*
 
-2013-2017  &ensp; **Freelance English language instructor.** &ensp; Global Education Centre , Nanjing, China
-<br>
-<br>
 
-#### Service
+2014 &ensp; College English (IELTS)
+*Nanjing University*
 
-##### Professional Membership
-
-*Australasian Speech Science and Technology Association* &ensp; 2017-Present
-
-*Australian Linguistic Society*            &ensp;                2017-Present
-
-*Acoustic Society of America*              &ensp;               2018-presemt
-
-##### MARCS, University of Western Sydney
-
-*MARCS Monday Meeting coordinator* &ensp; 2018
-
-*Speech and language program meeting coordinator* &ensp; 2019
-<br>
+2013-2017 &ensp; Freelance English language instructor 
+*Global Education Centre , Nanjing*
 <br>
 
 ### Language
 
-Chinese (Native)  &ensp; English (Proficient, TOEFL:112);  French (Intermediate)
-<br>
+Chinese (Native)  &ensp; English (Proficient)&ensp; French (Intermediate)
 <br>
 
 ### Technique skills
 
-#### Praat    
+ - Praat scripting    
+ - R data wrangling; statistical modelling (GLM,
+   GLMM, PCA, CA, SEM); Data visualization: ggplot2 
+ - E-prime programming 
+ - Speech corpus construction with Emu-R
+ - Corpus linguistics
+ - NLP/Text mining with Python
 
-Acoustic analysis with Praat scripts
-<br>Spectrogram reading and IPA annotation
-<br>Speech synthesis
-
-#### R    
-
-Data cleaning and wrangling : tidyr, dplyr
-<br>Statistical modelling: GLM, GLMM, PCA, CA, SEM
-<br>Data visualization: ggplot2
-
-#### Psychological experimental design
-
-E-prime programming 
-
-#### Corpus linguistics/NLP with Python

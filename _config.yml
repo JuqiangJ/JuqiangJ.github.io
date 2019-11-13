@@ -26,7 +26,6 @@ navbar-links:
   Blog: "index"
   About Me: "aboutme"
   Resources:
-    - Speech analysis: "speech_analysis"
     - Corpus linguistics: "corpusling"
   读写修行: "duxie"
 

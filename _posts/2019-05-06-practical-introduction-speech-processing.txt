@@ -1,6 +1,0 @@
----
-layout: post
-title: A short but practical introduction to speech signal processing with Praat!
-image: /img/hello_world.jpeg
----
-Over the years, I have been using Praat for speech signal processing. But I feel in existing literature there is a gap between the theoretical introduction to signal processing or speech signal processing in particular, and the pratical guide to using softwares, such as Praat. There are many execellent, such as 

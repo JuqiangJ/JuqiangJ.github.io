@@ -21,7 +21,7 @@ Apart from speech-related studies, I am also keen on exploring social and stylis
 <center>Curriculum Vitae</center>
 [CV pdf](/pdf/CV_Juqiang.pdf)
 
-## Eudcation
+## Education
 
 2017-Now &ensp;**PhD candidate** &ensp;Psycholinguistics &ensp; 
 [MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Annotated Praat learning resources
-subtitle: Read your speech!
+title: Praat
+subtitle: Annotated Praat learning resources
 ---
 
 Praat is a computer program that is widely used in the field of phonetics and speech-related studies. You can use it for analysing, synthesizing, and manipulating speech data, and  you can use it to plot waveforms, spectragrams, ptich contour and many other acoustic figures. 

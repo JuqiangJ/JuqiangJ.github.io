@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Juqiang @MARCS
+title: Juqiang
 
 # Short description of your site
 description: Exploring language and speech data!
@@ -25,8 +25,8 @@ description: Exploring language and speech data!
 navbar-links:
   Blog: "index"
   About Me: "aboutme"
-  Resources:
-    - Corpus linguistics: "corpusling"
+  Praat: "praat"
+  Corpus linguistics: "corpusling"
   读写修行: "duxie"
 
 # Image to show in the navigation bar - image must be a square (width = height)

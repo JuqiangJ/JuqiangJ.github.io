@@ -4,11 +4,11 @@ title: Praat
 subtitle: Annotated Praat learning resources
 ---
 
-Praat is a computer program that is widely used in the field of phonetics and speech-related studies. You can use it for analysing, synthesizing, and manipulating speech data, and  you can use it to plot waveforms, spectragrams, ptich contour and many other acoustic figures. 
+Praat is a computer program that is widely used in the field of phonetics and speech-related studies. You can use it for analysing, synthesizing, and manipulating speech data, and  you can use it to plot waveforms, spectragrams, ptich contours. 
 
 There are loads of resouces online that introduce Praat to beginning users and all kinds of scripts you can borrow and tweak (if you have some programming skills) to automate speech analysis.
 
-The problem is that there are too many of them and when you need something, it takes a lot of time to find what you really want. Thus, I would like to provide some useful annotated resouces organized in a logical way and this is the go-to page when I need to find Praat resources.
+The problem is that there are too many of them and when you need something, it takes a lot of time to find what you really want. Thus, I would like to provide some useful annotated resouces organized in a logical way and build this as a go-to page when you need to find Praat resources.
 
 The first step to learn Praat is to familarize yourself with some concept about acoustics like, spectrogram, waveform, formant, ptich and so on. Introductory textbooks or online tutorials on acoustic phonetic will do. 
 

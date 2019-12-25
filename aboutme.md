@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: PhD Student 
+subtitle: PhD Candidate
 ---
 <img src="/img/Juqianghead.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
 Hi there! I am Juqiang and I am currently  a PhD candidate (in psycholinguistics) at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs). I started my PhD project ,[Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), in 2017 with [Prof.Catherine Best(primary supervisor)](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou). Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a Master of Arts (linguistics) in 2017.
 <br>
 
-My research interest and expertise are in speech perception/production and speech corpus construction, with a focus on second language acquisition. In addition to my PhD project, I am also working on some linguistic projects on endangered aboriginal Australia Languages, *Arabana* and *Kaytetye*, with Mark Harvey, U of New Castle, [Robert Mailhammerand](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/associate_professor_robert_mailhammer), Western Sydney U , and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie U.
+My research interest and expertise are in second language speech perception/production. In addition to my PhD project, I am also working on some linguistic projects on endangered aboriginal Australia Languages, *Arabana* and *Kaytetye*, with Mark Harvey, [Robert Mailhammer](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/associate_professor_robert_mailhammer), Western Sydney U , and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie U.
 
 Apart from speech-related studies, I am also keen on exploring social and stylistic language variations with methods from corpus linguistics, natural language process and text mining. I have always been enthusiastic about using coprus to document and explore patterns of language use.
 <br>
@@ -67,15 +67,20 @@ Carne, M., **Chen, J.,** Luk, E., Strangways, S., Stockigt, C., Maihammer, R., &
 
 ### Professional Membership
 2019-present&ensp;&ensp;Asia-Pacific Signal and Information Processing Association (APSIPA) 
+
 2019-present&ensp;&ensp;International Speech Communication Association
+
 2017-Present&ensp;&ensp;Australasian Speech Science and Technology Association
-2017-2019&ensp;&ensp;&ensp;&ensp;Australian Linguistic Society                           
- 2018-present&ensp;&ensp;Acoustic Society of America                          
+
+2017-2019&ensp;&ensp;&ensp;&ensp;Australian Linguistic Society  
+
+2018-present&ensp;&ensp;Acoustic Society of America                          
 
 ### Academic service
 
 2018 &ensp; MARCS Monday Meeting coordinator
-2019 &ensp;Speech and language program meeting coordinator
+
+2019 &ensp; Speech and language program meeting coordinator
 <br>
 
 ## Honours and Awards
@@ -97,15 +102,22 @@ Carne, M., **Chen, J.,** Luk, E., Strangways, S., Stockigt, C., Maihammer, R., &
 
 ## Teaching
 
-2019&ensp; Introduction to data wrangling with R; 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Introduction to exploratory data analysis with R 
+2019
+
+Introduction to data wrangling with R; 
+
+Introduction to exploratory data analysis with R 
 *Digital Humanity Summer Institute Downunder, University of Newcastle, Australia*
 
 
-2014 &ensp; College English (IELTS)
+2014
+
+College English (IELTS)
 *Nanjing University*
 
-2013-2017 &ensp; Freelance English language instructor 
+2013-2017 
+
+Freelance English language instructor 
 *Global Education Centre , Nanjing*
 <br>
 

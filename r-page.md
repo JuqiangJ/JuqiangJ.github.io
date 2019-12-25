@@ -63,7 +63,7 @@ When you want to output your work with R, it is desirable to embed your code wit
 
 * Compile a single R Markdown document to a report in different formats, such as PDF, HTML, or Word.
 * Create notebooks in which you can directly run code chunks interactively.
-Tutorial: [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) [Tufte](https://rstudio.github.io/tufte/)
+Tutorial: [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) [Tufte](https://rstudio.github.io/tufte/) [DataTables](https://rstudio.github.io/DT/)
 
 * Generate websites and blogs.
 Tutorial: [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)

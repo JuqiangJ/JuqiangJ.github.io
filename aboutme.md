@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About me
+title: Juqiang Chen
 subtitle: PhD Candidate
 ---
 <img src="/img/Juqianghead.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-Hi there! I am Juqiang and I am currently  a PhD candidate (in psycholinguistics) at [MARCS Institute for Brain, Behavior and Development](https://www.westernsydney.edu.au/marcs). I started my PhD project ,[Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), in 2017 with [Prof.Catherine Best(primary supervisor)](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou). Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a Master of Arts (linguistics) in 2017.
-<br>
+I am a Doctor of Philosophy candidate with [the MARCS Institute for Brain, Behaviour and Development at Western Sydney University](https://www.westernsydney.edu.au/marcs). I started my PhD project ,[Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), in 2017 with [Prof.Catherine BesT](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), and [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou). Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a Master of Arts (linguistics) in 2017.
 
 My research interest and expertise are in second language speech perception/production. In addition to my PhD project, I am also working on some linguistic projects on endangered aboriginal Australia Languages, *Arabana* and *Kaytetye*, with Mark Harvey, [Robert Mailhammer](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/associate_professor_robert_mailhammer), Western Sydney U , and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie U.
 
@@ -136,3 +135,4 @@ Chinese (Native)  &ensp; English (Proficient)&ensp; French (Intermediate)
  - Corpus linguistics
  - NLP/Text mining with Python
 
+[demo](/pdf/demo.html)

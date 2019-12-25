@@ -15,6 +15,8 @@ First thing first, most people get to know about R and feel like using it, parti
 #### Data wrangling
 
 However, the data you get may not be ready as model input, and you will need to preproces them or in a more technical term data wrangling. Many functionalities R provides can be realized in Excel. But Excel cannot record the workflow in a nature way and has problems with very large data. There are too many packages that can do too many things in data preprocessing. A good starting point and reference point is [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham. I also have a [tutorial](https://juqiangj.github.io/DH_Data_wrangling/) for data wrangling which I used to run a three-hour workshop.
+Other books:
+[Data Science Live Book](https://livebook.datascienceheroes.com/index.html)
 
 #### Data visualization
 Most time as linguistic researchers or speech scientists, we do data visualization in a static way, for journal publications or reports. R has a very powerful data visualization package called ggplot2. 

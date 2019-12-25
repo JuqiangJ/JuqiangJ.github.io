@@ -27,6 +27,7 @@ navbar-links:
   About Me: "aboutme"
   R: "r-page"
   Praat: "praat"
+  Projects: "https://juqiang.shinyapps.io/shiny/"
   Corpus linguistics: "corpusling"
   读写修行: "duxie"
 

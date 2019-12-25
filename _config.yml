@@ -25,6 +25,7 @@ description: Exploring language and speech data!
 navbar-links:
   Blog: "index"
   About Me: "aboutme"
+  R: "r-page"
   Praat: "praat"
   Corpus linguistics: "corpusling"
   读写修行: "duxie"

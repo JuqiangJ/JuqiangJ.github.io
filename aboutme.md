@@ -101,6 +101,7 @@ Carne, M., **Chen, J.,** Luk, E., Strangways, S., Stockigt, C., Maihammer, R., &
 ## Teaching
 
 2019
+
 *Digital Humanity Summer Institute Downunder, University of Newcastle, Australia*
 
 Introduction to data wrangling with R 
@@ -109,7 +110,9 @@ Introduction to exploratory data analysis with R
 
 
 2014
+
 *Nanjing University*
+
 College English (IELTS)
 
 

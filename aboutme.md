@@ -5,12 +5,12 @@ subtitle: PhD Candidate
 ---
 <img src="/img/Juqianghead.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-I am a Doctor of Philosophy candidate with [the MARCS Institute for Brain, Behaviour and Development at Western Sydney University](https://www.westernsydney.edu.au/marcs). I started my PhD project ,[Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen), in 2017 with [Prof.Catherine BesT](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), and [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou). Before this, I graduated from [Nanjing University](https://www.nju.edu.cn/EN/) with a Master of Arts (linguistics) in 2017.
+I am a Doctor of Philosophy candidate with [the MARCS Institute for Brain, Behaviour and Development at Western Sydney University](https://www.westernsydney.edu.au/marcs), starting in 2017 with [Prof.Catherine BesT](https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_catherine_best), and [Dr Mark Antoniou](https://www.westernsydney.edu.au/marcs/our_team/researchers/dr_mark_antoniou). My research interest and expertise are in second language speech perception/production. 
 
-My research interest and expertise are in second language speech perception/production. In addition to my PhD project, I am also working on some linguistic projects on endangered aboriginal Australia Languages, *Arabana* and *Kaytetye*, with Mark Harvey, [Robert Mailhammer](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/associate_professor_robert_mailhammer), Western Sydney U , and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor), Macquarie U.
+
+In addition to my PhD project, I also do some work on some endangered aboriginal Australia Languages, *Arabana* and *Kaytetye*, with Mark Harvey, [Robert Mailhammer](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/associate_professor_robert_mailhammer), and [Micheal Proctor](https://researchers.mq.edu.au/en/persons/michael-proctor).
 
 Apart from speech-related studies, I am also keen on exploring social and stylistic language variations with methods from corpus linguistics, natural language process and text mining. I have always been enthusiastic about using coprus to document and explore patterns of language use.
-<br>
 
 **<span style="color:red">Contact:</span>**
 &ensp; [E-mail](j.chen2@westernsydney.edu.au) &ensp;  [Research Gate](https://www.researchgate.net/profile/Juqiang_Chen?ev=hdr_xprf&_sg=PLd--S4rAxP355beD9SM1NWekpEyCSV_oWPDxaa8_5hLBOmdyQJVSwqxv12hMo2PFyb3bv46jlgHK-plv-VTZhHJ) 
@@ -23,6 +23,7 @@ Apart from speech-related studies, I am also keen on exploring social and stylis
 ## Education
 
 2017-Now &ensp;**PhD candidate** &ensp;Psycholinguistics &ensp; 
+[Cognitive factors in perception and imitation of Thai tones by Mandarin and Vietnamese speakers](https://www.westernsydney.edu.au/marcs/our_team/research_students/juqiang_chen)
 [MARCS Institute, Western Sydney University](https://www.westernsydney.edu.au/marcs) 
 
 2014-2017 &ensp; **M.A.** &ensp; Applied Linguistics &ensp; 
@@ -102,23 +103,17 @@ Carne, M., **Chen, J.,** Luk, E., Strangways, S., Stockigt, C., Maihammer, R., &
 ## Teaching
 
 2019
+*Digital Humanity Summer Institute Downunder, University of Newcastle, Australia*
 
-Introduction to data wrangling with R; 
+Introduction to data wrangling with R 
 
 Introduction to exploratory data analysis with R 
-*Digital Humanity Summer Institute Downunder, University of Newcastle, Australia*
 
 
 2014
-
-College English (IELTS)
 *Nanjing University*
+College English (IELTS)
 
-2013-2017 
-
-Freelance English language instructor 
-*Global Education Centre , Nanjing*
-<br>
 
 ### Language
 
@@ -134,5 +129,3 @@ Chinese (Native)  &ensp; English (Proficient)&ensp; French (Intermediate)
  - Speech corpus construction with Emu-R
  - Corpus linguistics
  - NLP/Text mining with Python
-
-[demo](/pdf/demo.html)

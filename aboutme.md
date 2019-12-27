@@ -14,7 +14,7 @@ Apart from speech-related studies, I am also keen on exploring social and stylis
 
 **<span style="color:red">Contact:</span>**
 &ensp; [E-mail](j.chen2@westernsydney.edu.au) &ensp;  [Research Gate](https://www.researchgate.net/profile/Juqiang_Chen?ev=hdr_xprf&_sg=PLd--S4rAxP355beD9SM1NWekpEyCSV_oWPDxaa8_5hLBOmdyQJVSwqxv12hMo2PFyb3bv46jlgHK-plv-VTZhHJ) &ensp; [Google Scholar](https://scholar.google.com/citations?user=YdCQAmMAAAAJ&hl=en)
-<br>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8151-3964" href="https://orcid.org/0000-0001-8151-3964" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8151-3964</a></div>
 <br>
 
 <center>Curriculum Vitae</center>

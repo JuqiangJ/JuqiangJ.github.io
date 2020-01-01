@@ -24,7 +24,7 @@ description: Exploring language and speech data!
 # List of links in the navigation bar
 navbar-links:
   Blog: "index"
-  About Me: "aboutme"
+  About Me: "https://juqiangj.github.io/cv/"
   R: "r-page"
   Praat: "praat"
   Corpus linguistics: "corpusling"

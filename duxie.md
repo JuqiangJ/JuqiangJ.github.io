@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science
-subtitle: Understanding what appears to be obvious! 
+subtitle: Talking is easy, Show me the data!
 bigimg: /img/10matrix.png
 ---
 ![](img/datascience.png)

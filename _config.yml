@@ -25,7 +25,9 @@ description: Exploring language and speech data!
 navbar-links:
   Blog: "index"
   About Me: "https://juqiangj.github.io/cv/"
-  Praat: "praat"
+  Research: "research"
+  Teaching: "teaching"
+#Praat: "praat"
 #Corpus linguistics: "corpusling"
 #we: "duxie"
 # Projects: "https://juqiang.shinyapps.io/shiny/"

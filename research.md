@@ -39,6 +39,15 @@ bigimg: /img/reserch2.png
 8. **Chen, J.**, Best, C., Antoniou, M., & Kasisopa, B. (2018). Mapping and comparing East and Southeast Asian language tones. Australia Linguistic Society annual conference, Adelaide.
 
 
+## Books
+
+ 1. 2021-2022 语音学入门(与陈桦教授合著，外教社)
+
+ 2. 2021-2022 语音学100核心概念与关键术语 （与陈桦教授、李彬博士合著，清华大学出版社）
+
+ 3. 2020-2021 新时代语音学与音系学新发展研究 (参与编写，清华大学出版社)
+
+ 4. 2021上线 学术英语口语在线课程（与外研讯飞合作）
 
 
 

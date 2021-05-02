@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Research
-subtitle: Psycholinguistics | Phonetics | Data science
+title: Teaching
+subtitle: Speech Science | Data science
 bigimg: /img/research1.jpg
 ---
 
-## Workshop done
+## Workshops done
 
 1. **Eploratory Data Analysis with R**  @ DH Downunder 2019 at the University of Newcastle, Australia; 2020 @ Nanjing University, China.
 
 2. **An introduction to data wrangling with R**  @ DH Downunder 2019 at the University of Newcastle, Australia; 2020 @ Nanjing University, China.
 
 
-## Workshop that I can offer
+## Workshops that I can offer
 
 Conference or summer school organizers are welcomed to contact me (chenjuqiang2009@163.com) for running workshops on the following topics:
 

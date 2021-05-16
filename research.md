@@ -15,11 +15,9 @@ bigimg: /img/reserch2.png
 
 4. **Chen, J.**, Best, C. T., & Antoniou, M. (Under review). Cognitive factors in imitation of Thai tones by Mandarin and Vietnamese listeners. Laboratory phonology (invited, SSCI, 2区).
 
-5. **Chen, J.**, Best, C., Kasisopa, B., & Antoniou, M. (Under review). Machine learning model evaluation of Thai tone imitations by Thai-naïve Mandarin and Vietnamese speakers. JASA-EL.
+5. **Chen, J.** (Under review) Social, intellectual, and conceptual structures of speech perception research (2000-2020): a bibliometric study. Library Hi Tech.
 
-6. **Chen, J.** (Under review) Social, intellectual, and conceptual structures of speech perception research (2000-2020): a bibliometric study. Library Hi Tech.
-
- 7. 许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
+ 6. 许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
 
 
 ## Conference Publications

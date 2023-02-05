@@ -7,15 +7,15 @@ bigimg: /img/reserch2.png
 
 ## Journal Publications
 
-1. **Chen, J.**, Best, C. T., & Antoniou, M. (2020). Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. *Journal of Phonetics*, 83, 101013. https://doi.org/10.1016/j.wocn.2020.101013. [PDF](https://www.jianguoyun.com/p/DdRiHHkQo4epBxi0nvED) **(SSCI-Indexed)**
+1. **Chen, J.**, Antoniou, M., & Best, C. T. (2023). Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. Journal of Phonetics, 96, 101199. https://doi.org/10.1016/j.wocn.2022.101199 **(SSCI-Indexed)**
 
-2. Wang, F. (Robin), Humblé, P., & **Chen, J.** (2020). Towards a Socio-Cultural Account of Literary Canon’s Retranslation and Reinterpretation: The Case of The Journey to the West. *Critical Arts*, 34(4), 117–131. https://doi.org/10.1080/02560046.2020.1753796.  [PDF](https://www.jianguoyun.com/p/DVzy1zAQo4epBxjFnvED) **(SSCI-Indexed)**
+2. **Chen, J.**, & Chang, H. (2022). Sketching the Landscape of Speech Perception Research (2000–2020): A Bibliometric Study. Frontiers in Psychology, 13. https://www.frontiersin.org/article/10.3389/fpsyg.2022.822241 **(SSCI-Indexed)**
 
-3. **Chen, J.**, Best, C., & Antoniou, M. (In prep). Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability.
+3. **Chen, J.**, Best, C. T., & Antoniou, M. (2020). Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. *Journal of Phonetics*, 83, 101013. https://doi.org/10.1016/j.wocn.2020.101013. [PDF](https://www.jianguoyun.com/p/DdRiHHkQo4epBxi0nvED) **(SSCI-Indexed)**
 
-4. **Chen, J.**, Best, C. T., & Antoniou, M. (Under review). Cognitive factors in imitation of Thai tones by Mandarin and Vietnamese listeners. Laboratory phonology (invited, SSCI, 2区).
+4. Wang, F. (Robin), Humblé, P., & **Chen, J.** (2020). Towards a Socio-Cultural Account of Literary Canon’s Retranslation and Reinterpretation: The Case of The Journey to the West. *Critical Arts*, 34(4), 117–131. https://doi.org/10.1080/02560046.2020.1753796.  [PDF](https://www.jianguoyun.com/p/DVzy1zAQo4epBxjFnvED) **(SSCI-Indexed)**
 
- 5. 许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
+5. 许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
 
 
 ## Conference Publications

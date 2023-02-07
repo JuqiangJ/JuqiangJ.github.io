@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners
-subtitle: Journal of Phonetics
-tags: [Speech perception, Data science]
+title: An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features
+subtitle: Laboratory Phonology
+tags: [Arabana, Data science]
 ---
 
-Chen, J., Antoniou, M., & Best, C. T. (2023). Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. Journal of Phonetics, 96, 101199. https://doi.org/10.1016/j.wocn.2022.101199
+This paper presents exploratory research on temporally dynamic patterns of vowel nasalization from two speakers of Arabana. To derive a dynamic measure of nasality, we use gradient tree boosting algorithms to statistically learn the mapping between acoustics and vowel nasality in a speaker-specific manner. Three primary findings emerge: (1) NVN contexts exhibit nasalization throughout the entirety of the vowel interval, and we propose that a similar co-articulatory realization previously acted to resist diachronic change in this environment; (2) anticipatory vowel nasalization is nearly as extensive as carryover vowel nasalization, which is contrary to previous claims; and (3) the degree of vowel nasalization in word-initial contexts is relatively high, even in the #_C environment, suggesting that the ongoing sound change *#ŋa > #a has involved the loss of the oral constriction associated with ŋ but not the complete loss of the velum gesture.
 
-The present study examined native language phonological and phonetic factors in non-native lexical tone perception by tone language listeners, manipulating memory load and stimulus variability to bias listeners towards a more phonological or more phonetic mode of perception. Mandarin and Vietnamese listeners categorised the five Thai lexical tones to their native tones, and discriminated five selected Thai tone contrasts that were predicted by the Perceptual Assimilation Model (PAM, Best, 1995) to be discriminated differently. Categorisation responses showed more phonologically-based patterns under high than low memory load but were unaffected by talker and vowel variability, whereas discrimination accuracy was reduced by talker and vowel variability but not by memory load. Phonological factors indicated by type of categorisation and category overlap generally predicted the discrimination of non-native tone contrasts in line with PAM principles. Phonetic factors reflected in category overlap scores and fit index difference scores predicted variations in discriminating contrasts of the same contrast categorisation type. These findings uphold the extension of PAM principles to non-native tone perception by native listeners of other tone languages. Native phonological and phonetic contributions to non-native speech perception differ between categorisation and discrimination tasks, as reflected in differential modulation by memory load and stimulus variability.
-
-
+Carignan, C., **Chen, J.**, Harvey, M., Stockigt, C., Simpson, J., & Strangways, S. (2023). An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. *Laboratory Phonology: Journal of the Association for Laboratory Phonology*, 14(1), pp. 1–31. DOI: https://doi.org/10.16995/labphon.9152

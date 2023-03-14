@@ -7,17 +7,19 @@ bigimg: /img/reserch2.png
 
 ## Journal Publications
 
-1. \*Carignan, C., **\*Chen, J.**, Harvey, M., Stockigt, C., Simpson, J., & Strangways, S. (2023). An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. *Laboratory Phonology: Journal of the Association for Laboratory Phonology*, 14(1), pp. 1–31. DOI: https://doi.org/10.16995/labphon.9152 **(SSCI-Indexed)** \* corresponding authors
+**Chen, J.**, Best, C. T., & Antoniou, M. (2023). Phonological and phonetic contributions to Thai-naïve Mandarin and Vietnamese speakers’ imitation of Thai lexical tones: Effects of memory load and stimulus variability. Laboratory Phonology. https://doi.org/10.1016/j.wocn.2022.101199
 
-2. **\*Chen, J.**, Antoniou, M., & \*Best, C. T. (2023). Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. *Journal of Phonetics*, 96, 101199. https://doi.org/10.1016/j.wocn.2022.101199 **(SSCI-Indexed)**
+\*Carignan, C., **\*Chen, J.**, Harvey, M., Stockigt, C., Simpson, J., & Strangways, S. (2023). An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. *Laboratory Phonology: Journal of the Association for Laboratory Phonology*, 14(1), pp. 1–31. DOI: https://doi.org/10.16995/labphon.9152 **(SSCI-Indexed)** \* corresponding authors
 
-3. **Chen, J.**, & \*Chang, H. (2022). Sketching the Landscape of Speech Perception Research (2000–2020): A Bibliometric Study. *Frontiers in Psychology*, 13. https://www.frontiersin.org/article/10.3389/fpsyg.2022.822241 **(SSCI-Indexed)**
+**\*Chen, J.**, Antoniou, M., & \*Best, C. T. (2023). Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. *Journal of Phonetics*, 96, 101199. https://doi.org/10.1016/j.wocn.2022.101199 **(SSCI-Indexed)**
 
-4. **\*Chen, J.**, \*Best, C. T., & Antoniou, M. (2020). Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. *Journal of Phonetics*, 83, 101013. https://doi.org/10.1016/j.wocn.2020.101013. [PDF](https://www.jianguoyun.com/p/DdRiHHkQo4epBxi0nvED) **(SSCI-Indexed)**
+**Chen, J.**, & \*Chang, H. (2022). Sketching the Landscape of Speech Perception Research (2000–2020): A Bibliometric Study. *Frontiers in Psychology*, 13. https://www.frontiersin.org/article/10.3389/fpsyg.2022.822241 **(SSCI-Indexed)**
 
-5. \*Wang, F. (Robin), Humblé, P., & **Chen, J.** (2020). Towards a Socio-Cultural Account of Literary Canon’s Retranslation and Reinterpretation: The Case of The Journey to the West. *Critical Arts*, 34(4), 117–131. https://doi.org/10.1080/02560046.2020.1753796.  [PDF](https://www.jianguoyun.com/p/DVzy1zAQo4epBxjFnvED) **(SSCI-Indexed)**
+**\*Chen, J.**, \*Best, C. T., & Antoniou, M. (2020). Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. *Journal of Phonetics*, 83, 101013. https://doi.org/10.1016/j.wocn.2020.101013. [PDF](https://www.jianguoyun.com/p/DdRiHHkQo4epBxi0nvED) **(SSCI-Indexed)**
 
-6. 许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
+\*Wang, F. (Robin), Humblé, P., & **Chen, J.** (2020). Towards a Socio-Cultural Account of Literary Canon’s Retranslation and Reinterpretation: The Case of The Journey to the West. *Critical Arts*, 34(4), 117–131. https://doi.org/10.1080/02560046.2020.1753796.  [PDF](https://www.jianguoyun.com/p/DVzy1zAQo4epBxjFnvED) **(SSCI-Indexed)**
+
+许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
 
 
 ## Conference Publications
@@ -45,9 +47,9 @@ Harvey, M., **Chen, J.**, Carne, M., Bundgaard-Nielsen, R., Stockigt, C., Simpso
 
 ## Books
 
- 1. 2021-2022 语音学入门(与陈桦教授合著，外教社)
+ 1. 语音学入门(编写中，与陈桦教授合著，外教社)
 
- 2. 2021-2022 语音学100核心概念与关键术语 （与陈桦教授、李彬博士合著，清华大学出版社）
+ 2. 语音学100核心概念与关键术语 （编写中，与陈桦教授、李彬博士合著，清华大学出版社）
 
  3. 2020-2021 新时代语音学与音系学新发展研究 (参与编写，清华大学出版社)
 

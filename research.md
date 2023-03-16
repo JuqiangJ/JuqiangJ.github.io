@@ -5,6 +5,8 @@ subtitle: Psycholinguistics | Phonetics | Data science
 bigimg: /img/reserch2.png
 ---
 
+## Also see [ResearchGate](https://www.researchgate.net/profile/Juqiang_Chen)
+
 ## Journal Publications
 ### 2023
 

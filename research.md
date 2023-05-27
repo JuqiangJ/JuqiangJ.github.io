@@ -24,7 +24,7 @@ bigimg: /img/reserch2.png
 ## Journal Publications
 ### 2023
 
-**Chen, J.**, Best, C. T., & Antoniou, M. (2023). Phonological and phonetic contributions to Thai-naïve Mandarin and Vietnamese speakers’ imitation of Thai lexical tones: Effects of memory load and stimulus variability. Laboratory Phonology.
+**Chen, J.** & Best, C. T. & Antoniou, M., (2023) “Phonological and phonetic contributions to Thai-naïve Mandarin and Vietnamese speakers’ imitation of Thai lexical tones: Effects of memory load and stimulus variability”, Laboratory Phonology 14(1). doi: https://doi.org/10.16995/labphon.6435 **(SSCI-Indexed)**
 
 \*Carignan, C., **\*Chen, J.**, Harvey, M., Stockigt, C., Simpson, J., & Strangways, S. (2023). An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. *Laboratory Phonology: Journal of the Association for Laboratory Phonology*, 14(1), pp. 1–31. DOI: https://doi.org/10.16995/labphon.9152 **(SSCI-Indexed)** \* corresponding authors
 

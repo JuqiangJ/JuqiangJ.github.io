@@ -17,6 +17,8 @@ bigimg: /img/reserch2.png
   
 2009-2013 **Nantong University**             B.A. 
 
+**Contact:** juqiang.c@sjtu.edu.cn
+
 ### Research directions
 ***
 #### 1、Language and well-being

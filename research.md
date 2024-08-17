@@ -5,55 +5,47 @@ subtitle: Psycholinguistics | Phonetics | Data science
 bigimg: /img/reserch2.png
 ---
 
-### Also see [ResearchGate](https://www.researchgate.net/profile/Juqiang_Chen)
-
- <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0001-8151-3964"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0001-8151-3964
-    </a>
-
 ### Education & Working experience
 
-- 2024-present Assistant Professor Shanghai Jiao Tong University
-- 2021-2024 Postdoc Shanghai Jiao Tong University
-- 2017-2021 Ph.D. The MARCS Institute for Brain, Behavior and Development, Western Sydney University
-- 2014-2017 M.A. Nanjing University 
-- 2009-2013 B.A. Nantong University
+2024-present Assistant Professor Shanghai Jiao Tong University
+
+2021-2024 Postdoc Shanghai Jiao Tong University
+  
+2017-2021 Ph.D. The MARCS Institute for Brain, Behavior and Development, Western Sydney University
+  
+2014-2017 M.A. Nanjing University
+  
+2009-2013 B.A. Nantong University
 
 ### Research directions
-
-1、Language and well-being
+#### 1、Language and well-being
 My research in this area centers on the discourse production, particularly in individuals with Chinese aphasia and elderly Chinese speakers. I explore the phonetic, semantic, and grammatical aspects of language to understand how these elements are affected by aging and neurological conditions. The ultimate goal is to apply these insights to develop reliable methods for assessing language abilities and creating intelligent systems for early screening of cognitive impairments.
 
-2、Second language speech learning
+#### 2、Second language speech learning
 In my work on second language (L2) acquisition, I investigate how factors, such as language background, and talker variability, affect the learning of L2 phonetics. Through speech perception and production experiments, I aim to construct computational models that predict learning challenges in L2 speech learning, providing insights to improve L2 teaching practices and learning outcomes.
 
-3、Digital humanity
+#### 3、Digital humanity
 My research in digital humanities relies on data science techniques to quantitatively analyse texts and explore their stylistic or semantic features, and translation styles. 
 
 ### Journal publications 
 
-1、Language and well-being
+#### 1、Language and well-being
 (1) Core Lexicon analysis of spoken discourse production by Mandarin Chinese speakers with Aphasia. Aphasiology, 1–20. 2024. **SSCI**
 
-2、Second language speech learning
+#### 2、Second language speech learning
 (1) Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. Journal of Phonetics, 96. 2023.  **SSCI**
+
 (2) Phonological and phonetic contributions to Thai-naïve Mandarin and Vietnamese speakers’ imitation of Thai lexical tones: Effects of memory load and stimulus variability. Laboratory Phonology, 14(1). 2023.  **SSCI**
+
 (3) An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. Laboratory Phonology, 14(1). 2023.  **SSCI**
+
 (4) Sketching the Landscape of Speech Perception Research (2000–2020): A Bibliometric Study. Frontiers in Psychology, 13. 2022.  **SSCI**
+
 (5) Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. Journal of Phonetics, 83. 2020.  **SSCI**
 
-3、Digital humanity
+#### 3、Digital humanity
 (1) Testing simplification in translated and creative writing texts: The case of Robert van Gulik’s Judge Dee detective stories. Across Languages and Cultures, 24(2), 268–282. 2023.  **SSCI**
+
 (2) Towards a socio-cultural account of literary canon’s retranslation and reinterpretation: The case of the journey to the west. Critical Arts, 34(4), 117–131. 2020.  **SSCI**
 
 ### Projects (as PI)
@@ -76,12 +68,18 @@ Journal of Acoustic Society of America, Child Development, Journal of phonetics,
 Committee member of Pronunciation Teaching and Phonetics Research Committee of the China Association for Comparative Studies of English and Chinese
 
 
-### Books
+### Also see [ResearchGate](https://www.researchgate.net/profile/Juqiang_Chen)
 
- 1. 语音学入门(编写中，与陈桦教授合著，外教社)
-
- 2. 语音学100核心概念与关键术语 （编写中，与陈桦教授、李彬博士合著，清华大学出版社）
-
- 3. 2020-2021 新时代语音学与音系学新发展研究 (参与编写，清华大学出版社)
-
- 4. 2021上线 学术英语口语在线课程（与外研讯飞合作）
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-8151-3964"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0001-8151-3964
+    </a>

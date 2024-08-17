@@ -24,8 +24,8 @@ description: Exploring language and speech data!
 # List of links in the navigation bar
 navbar-links:
   Blog: "index"
-  About Me: "https://juqiangj.github.io/cv/"
-  Research: "research"
+#About Me: "https://juqiangj.github.io/cv/"
+  About Me: "research"
   Teaching: "teaching"
 #Praat: "praat"
 #Corpus linguistics: "corpusling"
@@ -73,7 +73,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #rss: true
-  email: "j.chen2@westernsydney.edu.au"
+  email: "chenjuqiang2009@163.com"
 # facebook: daattali
   github: JuqiangJ
 #  twitter: daattali

@@ -7,15 +7,18 @@ bigimg: /img/reserch2.png
 
 ### Education & Working experience
 
-2024-now  | Shanghai Jiao Tong University | Assistant Professor 
+2024-now  **Shanghai Jiao Tong University** Assistant Professor 
 
-2021-2024 | Shanghai Jiao Tong University | Postdoc 
+2021-2024 **Shanghai Jiao Tong University**  Postdoc 
   
-2017-2021 | Western Sydney University     | Ph.D. 
+2017-2021 **Western Sydney University**      Ph.D. 
   
-2014-2017 | Nanjing University            | M.A. 
+2014-2017 **Nanjing University**             M.A. 
   
-2009-2013 | Nantong University            | B.A. 
+2009-2013 **Nantong University**             B.A. 
+<!-- HTML Codes by Code-Generator.net -->
+<span style="color:3300FF;">Enter your text here... then choose a color below... then click the button for generating the code.. The text you enter here will be displayed in the color you choose below. Enjoy!</span>
+<hr /><p style="font-family:verdana,arial,sans-serif;font-size:10px;"><a href="http://www.code-generator.net/html/codes/">Free HTML codes</a></p>
 
 ### Research directions
 

@@ -7,17 +7,18 @@ bigimg: /img/reserch2.png
 
 ### Education & Working experience
 
-2024-present Assistant Professor Shanghai Jiao Tong University
+2024-now  | Shanghai Jiao Tong University | Assistant Professor 
 
-2021-2024 Postdoc Shanghai Jiao Tong University
+2021-2024 | Shanghai Jiao Tong University | Postdoc 
   
-2017-2021 Ph.D. The MARCS Institute for Brain, Behavior and Development, Western Sydney University
+2017-2021 | Western Sydney University     | Ph.D. 
   
-2014-2017 M.A. Nanjing University
+2014-2017 | Nanjing University            | M.A. 
   
-2009-2013 B.A. Nantong University
+2009-2013 | Nantong University            | B.A. 
 
 ### Research directions
+
 #### 1、Language and well-being
 My research in this area centers on the discourse production, particularly in individuals with Chinese aphasia and elderly Chinese speakers. I explore the phonetic, semantic, and grammatical aspects of language to understand how these elements are affected by aging and neurological conditions. The ultimate goal is to apply these insights to develop reliable methods for assessing language abilities and creating intelligent systems for early screening of cognitive impairments.
 
@@ -49,6 +50,7 @@ My research in digital humanities relies on data science techniques to quantitat
 (2) Towards a socio-cultural account of literary canon’s retranslation and reinterpretation: The case of the journey to the west. Critical Arts, 34(4), 117–131. 2020.  **SSCI**
 
 ### Projects (as PI)
+
 1、2023 Feature extraction and AI-based evaluation of discourse production by Mandarin post-stroke aphasia patients 【Project of Humanities and Social Sciences Foundation of the Ministry of Education of PRC】
 
 2、2023 AI-based multidimensional assessment of Mandarin post-stroke aphasia patients and its application 【Shanghai Jiao Tong University Arts and Humanities Young Talent Cultivation Program】

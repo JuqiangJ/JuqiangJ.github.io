@@ -6,7 +6,7 @@ bigimg: /img/reserch2.png
 ---
 
 ### Education & Working experience
-
+*** 
 2024-now  **Shanghai Jiao Tong University** Assistant Professor 
 
 2021-2024 **Shanghai Jiao Tong University**  Postdoc 
@@ -17,10 +17,8 @@ bigimg: /img/reserch2.png
   
 2009-2013 **Nantong University**             B.A. 
 
-
-
 ### Research directions
-<br/><br/>
+***
 #### 1、Language and well-being
 My research in this area centers on the discourse production, particularly in individuals with Chinese aphasia and elderly Chinese speakers. I explore the phonetic, semantic, and grammatical aspects of language to understand how these elements are affected by aging and neurological conditions. The ultimate goal is to apply these insights to develop reliable methods for assessing language abilities and creating intelligent systems for early screening of cognitive impairments.
 
@@ -31,7 +29,7 @@ In my work on second language (L2) acquisition, I investigate how factors, such 
 My research in digital humanities relies on data science techniques to quantitatively analyse texts and explore their stylistic or semantic features, and translation styles. 
 
 ### Journal publications 
-
+***
 #### 1、Language and well-being
 (1) Core Lexicon analysis of spoken discourse production by Mandarin Chinese speakers with Aphasia. Aphasiology, 1–20. 2024. **SSCI**
 
@@ -52,7 +50,7 @@ My research in digital humanities relies on data science techniques to quantitat
 (2) Towards a socio-cultural account of literary canon’s retranslation and reinterpretation: The case of the journey to the west. Critical Arts, 34(4), 117–131. 2020.  **SSCI**
 
 ### Projects (as PI)
-
+***
 1、2023 Feature extraction and AI-based evaluation of discourse production by Mandarin post-stroke aphasia patients 【Project of Humanities and Social Sciences Foundation of the Ministry of Education of PRC】
 
 2、2023 AI-based multidimensional assessment of Mandarin post-stroke aphasia patients and its application 【Shanghai Jiao Tong University Arts and Humanities Young Talent Cultivation Program】
@@ -64,11 +62,11 @@ My research in digital humanities relies on data science techniques to quantitat
 5、2022 Dynamics of Core Terminology and Research Hotspots in Neurolinguistics Based on Corpus and Bibliometric Analysis 【China National Committee for Terminology in Science and Technology (CNTERM) Annual Gran】
 
 ### Reviewing
-
+***
 Journal of Acoustic Society of America, Child Development, Journal of phonetics, Phonetica, Second language research, Language and Speech, Frontiers in Psychology, Frontiers in Human Neuroscience
 
 ### Membership
-
+***
 Committee member of Pronunciation Teaching and Phonetics Research Committee of the China Association for Comparative Studies of English and Chinese
 
 

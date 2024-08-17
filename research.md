@@ -16,12 +16,11 @@ bigimg: /img/reserch2.png
 2014-2017 **Nanjing University**             M.A. 
   
 2009-2013 **Nantong University**             B.A. 
-<!-- HTML Codes by Code-Generator.net -->
-<span style="color:3300FF;">Enter your text here... then choose a color below... then click the button for generating the code.. The text you enter here will be displayed in the color you choose below. Enjoy!</span>
-<hr /><p style="font-family:verdana,arial,sans-serif;font-size:10px;"><a href="http://www.code-generator.net/html/codes/">Free HTML codes</a></p>
+
+
 
 ### Research directions
-
+<br/><br/>
 #### 1、Language and well-being
 My research in this area centers on the discourse production, particularly in individuals with Chinese aphasia and elderly Chinese speakers. I explore the phonetic, semantic, and grammatical aspects of language to understand how these elements are affected by aging and neurological conditions. The ultimate goal is to apply these insights to develop reliable methods for assessing language abilities and creating intelligent systems for early screening of cognitive impairments.
 

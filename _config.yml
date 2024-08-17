@@ -23,7 +23,7 @@ description: Exploring language and speech data!
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "index"
+  Updates: "index"
 #About Me: "https://juqiangj.github.io/cv/"
   About Me: "research"
   Teaching: "teaching"

@@ -21,61 +21,62 @@ bigimg: /img/reserch2.png
       https://orcid.org/0000-0001-8151-3964
     </a>
 
-## Journal Publications
-### 2023
+### Education & Working experience
 
-**Chen, J.** & Best, C. T. & Antoniou, M., (2023) “Phonological and phonetic contributions to Thai-naïve Mandarin and Vietnamese speakers’ imitation of Thai lexical tones: Effects of memory load and stimulus variability”, Laboratory Phonology 14(1). doi: https://doi.org/10.16995/labphon.6435 **(SSCI-Indexed)**
+- 2024-present Assistant Professor Shanghai Jiao Tong University
+- 2021-2024 Postdoc Shanghai Jiao Tong University
+- 2017-2021 Ph.D. The MARCS Institute for Brain, Behavior and Development, Western Sydney University
+- 2014-2017 M.A. Nanjing University 
+- 2009-2013 B.A. Nantong University
 
-\*Carignan, C., **\*Chen, J.**, Harvey, M., Stockigt, C., Simpson, J., & Strangways, S. (2023). An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. *Laboratory Phonology: Journal of the Association for Laboratory Phonology*, 14(1), pp. 1–31. DOI: https://doi.org/10.16995/labphon.9152 **(SSCI-Indexed)** \* corresponding authors
+### Research directions
 
-**\*Chen, J.**, Antoniou, M., & \*Best, C. T. (2023). Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. *Journal of Phonetics*, 96, 101199. https://doi.org/10.1016/j.wocn.2022.101199 **(SSCI-Indexed)**
+1、Language and well-being
+My research in this area centers on the discourse production, particularly in individuals with Chinese aphasia and elderly Chinese speakers. I explore the phonetic, semantic, and grammatical aspects of language to understand how these elements are affected by aging and neurological conditions. The ultimate goal is to apply these insights to develop reliable methods for assessing language abilities and creating intelligent systems for early screening of cognitive impairments.
 
-### 2022
-**Chen, J.**, & \*Chang, H. (2022). Sketching the Landscape of Speech Perception Research (2000–2020): A Bibliometric Study. *Frontiers in Psychology*, 13. https://www.frontiersin.org/article/10.3389/fpsyg.2022.822241 **(SSCI-Indexed)**
+2、Second language speech learning
+In my work on second language (L2) acquisition, I investigate how factors, such as language background, and talker variability, affect the learning of L2 phonetics. Through speech perception and production experiments, I aim to construct computational models that predict learning challenges in L2 speech learning, providing insights to improve L2 teaching practices and learning outcomes.
 
-### 2020
+3、Digital humanity
+My research in digital humanities relies on data science techniques to quantitatively analyse texts and explore their stylistic or semantic features, and translation styles. 
 
-**\*Chen, J.**, \*Best, C. T., & Antoniou, M. (2020). Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. *Journal of Phonetics*, 83, 101013. https://doi.org/10.1016/j.wocn.2020.101013. [PDF](https://www.jianguoyun.com/p/DdRiHHkQo4epBxi0nvED) **(SSCI-Indexed)**
+### Journal publications 
 
-\*Wang, F. (Robin), Humblé, P., & **Chen, J.** (2020). Towards a Socio-Cultural Account of Literary Canon’s Retranslation and Reinterpretation: The Case of The Journey to the West. *Critical Arts*, 34(4), 117–131. https://doi.org/10.1080/02560046.2020.1753796.  [PDF](https://www.jianguoyun.com/p/DVzy1zAQo4epBxjFnvED) **(SSCI-Indexed)**
+1、Language and well-being
+(1) Core Lexicon analysis of spoken discourse production by Mandarin Chinese speakers with Aphasia. Aphasiology, 1–20. 2024. **SSCI**
 
-许庆欣，**陈居强**. (2020). 数据科学视角下的评价话语分析——以冲突话语中会话者评价风格识别为例. 天津外国语大学学报. 第27卷第6期.
+2、Second language speech learning
+(1) Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. Journal of Phonetics, 96. 2023.  **SSCI**
+(2) Phonological and phonetic contributions to Thai-naïve Mandarin and Vietnamese speakers’ imitation of Thai lexical tones: Effects of memory load and stimulus variability. Laboratory Phonology, 14(1). 2023.  **SSCI**
+(3) An investigation of the dynamics of vowel nasalization in Arabana using machine learning of acoustic features. Laboratory Phonology, 14(1). 2023.  **SSCI**
+(4) Sketching the Landscape of Speech Perception Research (2000–2020): A Bibliometric Study. Frontiers in Psychology, 13. 2022.  **SSCI**
+(5) Native phonological and phonetic influences in perceptual assimilation of monosyllabic Thai lexical tones by Mandarin and Vietnamese listeners. Journal of Phonetics, 83. 2020.  **SSCI**
 
+3、Digital humanity
+(1) Testing simplification in translated and creative writing texts: The case of Robert van Gulik’s Judge Dee detective stories. Across Languages and Cultures, 24(2), 268–282. 2023.  **SSCI**
+(2) Towards a socio-cultural account of literary canon’s retranslation and reinterpretation: The case of the journey to the west. Critical Arts, 34(4), 117–131. 2020.  **SSCI**
 
-## Conference Publications
+### Projects (as PI)
+1、2023 Feature extraction and AI-based evaluation of discourse production by Mandarin post-stroke aphasia patients 【Project of Humanities and Social Sciences Foundation of the Ministry of Education of PRC】
 
-### 2022
+2、2023 AI-based multidimensional assessment of Mandarin post-stroke aphasia patients and its application 【Shanghai Jiao Tong University Arts and Humanities Young Talent Cultivation Program】
 
-Harvey, M., **Chen, J.**, Carne, M., Bundgaard-Nielsen, R., Stockigt, C., Simpson, J., & Strangways, S. (2022). Apical stops in Arabana: Lenition and undershoot. Eighteenth Australasian International Conference on Speech Science and Technology. 
+3、2022 Artificial Intelligence-Assisted Diagnosis of Chinese Post-stroke Aphasia 【China Postdoctoral Science Foundation Grant】
 
-### 2021
+4、2022 Mechanisms and Computational Modeling of Tone Perception in Vietnamese Language Major Students in China 【China Foreign Language Education Fund】
 
-**Chen, J.**, Ni, T., Kasisopa, B., Antoniou, M., & Best, C. T. (2021). SVM-based evaluation of Thai tone imitations by Thai-na ̈ıve Mandarin and Vietnamese speakers. 13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference, 926–931. （EI & IEEE indexed）
+5、2022 Dynamics of Core Terminology and Research Hotspots in Neurolinguistics Based on Corpus and Bibliometric Analysis 【China National Committee for Terminology in Science and Technology (CNTERM) Annual Gran】
 
-### 2020
+### Reviewing
 
- **Chen, J.**, Best, C. T., & Antoniou, M. (2020). Predicting potential difficulties in second language lexical tone learning with Support Vector Machine models. *Proceedings of ICWL 2020 and SETE 2020*. [PDF](https://www.jianguoyun.com/p/DSYCfVUQo4epBxiWoPED) （Springer LNCS, EI indexed）
+Journal of Acoustic Society of America, Child Development, Journal of phonetics, Phonetica, Second language research, Language and Speech, Frontiers in Psychology, Frontiers in Human Neuroscience
 
- **Chen, J.**, Best, C. T., & Antoniou, M. (2020). Tone differentiation as a means for assessing non-native imitation of Thai tones by Mandarin speakers. *The Journal of the Acoustical Society of America (ABSTRACT)*, 148(4), 2660–2660. https://doi.org/10.1121/1.5147415
+### Membership
 
-### 2019
-
- **Chen, J.**, Best, C., & Antoniou, M. (2019). Cognitive Factors in Thai-Naïve Mandarin Speakers’ Imitation of Thai Lexical Tones. *Interspeech 2019*, 2653–2657. https://doi.org/10.21437/Interspeech.2019-1403. [PDF](https://www.jianguoyun.com/p/DRd7RVsQo4epBxiZoPED) （EI indexed)
-
- **Chen, J.**, & He, X. (2019). Computational perception of information foci produced by Chinese English learners and American English speakers. *Proceedings of APSIPA Annual Summit and Conference 2019*, 1780–1785. [PDF](https://www.jianguoyun.com/p/DStDhq4Qo4epBxjHnvED) （EI & IEEE indexed）
-
- **Chen, J.**, Best, C., Antoniou, M., & Kasisopa, B. (2019). Cognitive factors in perception of Thai tones by naïve Mandarin listeners. Proceedings of the 19th ICPhS, (pp. 1684–1688). [PDF](https://www.jianguoyun.com/p/DVYZmCUQo4epBxjEnvED)
-
- Carne, M., **Chen, J.**, Luk, E., Strangways, S., Stockigt, C., Maihammer, R., & Harvey, M. (2019). *Proceedings of the 19th ICPhS*, (pp. 1278–1282). [PDF](https://www.jianguoyun.com/p/DfUwjKgQo4epBxi_nvED)
- 
- ### 2018
-
- **Chen, J.**, Best, C., Antoniou, M., & Kasisopa, B. (2018). Cross-language categorisation of monosyllabic Thai tones by Mandarin and Vietnamese speakers: L1 phonological and phonetic influences. *Australasian International Conference on Speech Science and Technology* (pp. 168–172).
-
- **Chen, J.**, Best, C., Antoniou, M., & Kasisopa, B. (2018). Mapping and comparing East and Southeast Asian language tones. Australia Linguistic Society annual conference, Adelaide.
+Committee member of Pronunciation Teaching and Phonetics Research Committee of the China Association for Comparative Studies of English and Chinese
 
 
-## Books
+### Books
 
  1. 语音学入门(编写中，与陈桦教授合著，外教社)
 

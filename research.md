@@ -17,7 +17,9 @@ bigimg: /img/reserch2.png
   
 2009-2013 **Nantong University**             B.A. 
 
-:envelope: juqiang.c@sjtu.edu.cn
+<i class="fas fa-camera fa-lg"></i>  <!-- large icon -->
+<i class="fas fa-camera fa-2x"></i> <!-- 2x larger icon -->
+juqiang.c@sjtu.edu.cn
 
 
 ### Research directions

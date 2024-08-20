@@ -35,7 +35,7 @@ My research in digital humanities relies on data science techniques to quantitat
 ### Journal publications 
 ***
 #### 1、Language and well-being
-:page_facing_up: Core Lexicon analysis of spoken discourse production by Mandarin Chinese speakers with Aphasia. Aphasiology, 1–20. 2024. **SSCI**
+(1) Core Lexicon analysis of spoken discourse production by Mandarin Chinese speakers with Aphasia. Aphasiology, 1–20. 2024. **SSCI**
 
 #### 2、Second language speech learning
 (1) Phonological and phonetic contributions to perception of non-native lexical tones by tone language listeners: Effects of memory load and stimulus variability. Journal of Phonetics, 96. 2023.  **SSCI**
